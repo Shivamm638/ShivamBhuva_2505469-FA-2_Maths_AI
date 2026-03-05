@@ -183,3 +183,11 @@ This project demonstrates:
 By combining simulation, analytics, and interactive design, this project fully satisfies all FA-2 rubric criteria at a distinguished level.
 
 The dashboard bridges theoretical mathematics with practical AI-driven financial analysis, showcasing both conceptual knowledge and technical execution.
+
+---
+
+## 🚀 Live App
+
+Click here to open the application:
+
+🔗 https://cosmic-launch-control.streamlit.app
