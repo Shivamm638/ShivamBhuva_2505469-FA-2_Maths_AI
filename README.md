@@ -190,4 +190,4 @@ The dashboard bridges theoretical mathematics with practical AI-driven financial
 
 Click here to open the application:
 
-🔗 https://cosmic-launch-control.streamlit.app
+🔗 https://fa2-maths-ai.streamlit.app/
